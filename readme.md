@@ -2,7 +2,7 @@ This is an adaptation of the MDN [2D breakout game using Phaser](https://develop
 
 The thud sound in the assets file was created by EdgardEdition and sourced from freesound.org.
 
-The live site can be found at: https://webwizard99.github.io/mdn-breakout-phaser3/
+To run the game, clone it, and then run npm install, then npm run start.
 
 ![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
 
